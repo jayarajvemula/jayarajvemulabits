@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - This Page is built by Jayaraj Vemula as an Assignment for a Course in BITS,WILP
 
-You can use the [editor on GitHub](https://github.com/jayarajvemula/jayarajvemulabits/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**About me: **
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Data Platform Architect, Associate Director , S&P Global.
+14+ years of IT and problem solving expertise 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Technologies that i am associated with - 
 
-```markdown
-Syntax highlighted code block
+1. AWS Certified Solutions Architect Associate, Certified Database Specialist
+2. SQL Server 
+3. Postgresql Aurora
+4. MongoDB
+5. Delphix (Data Virtualization)
+6. Attunity (Change Data Capure)
+7. AWS DMS 
+8. Debezium 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jayarajvemula/jayarajvemulabits/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
