@@ -2,7 +2,10 @@
 
 **About me: **
 
-Data Platform Architect, Associate Director , S&P Global.
+Data Platform Architect, 
+Associate Director , 
+S&P Global.
+
 14+ years of IT and problem solving expertise 
 
 
